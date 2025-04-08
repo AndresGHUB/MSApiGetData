@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XLpNqUaQ9/WgT7bttBSB4K3++HDQhYiAAFS/QEoSP7w=",
+  "Source": "MSApiGetData",
+  "BasePath": "_content/MSApiGetData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

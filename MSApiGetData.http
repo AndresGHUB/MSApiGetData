@@ -1,0 +1,6 @@
+@MSApiGetData_HostAddress = http://localhost:5047
+
+GET {{MSApiGetData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
